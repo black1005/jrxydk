@@ -3,7 +3,7 @@
 <br/>Cpdaily_Extension
 <br/>MOD_AUTH_CAS
 # 需要修改
-# 如果不是"在实习或工作单位"需要修改改值钱=前的FitemWid
+# 如果不是"在实习或工作单位"需要修改该值前的FitemWid
 <br/> "居家"                         FitemWid-2
 <br/> "在校"                         FitemWid-1
 <br/> "在实习或工作单位"              FitemWid
