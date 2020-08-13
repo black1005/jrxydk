@@ -137,8 +137,8 @@ def main_handler(event, context):
       data1 = task3(data[1], data[0])#获取具体内容
       print(data1[0]) #wid
       print(data1[1]) #formWid
-      if(curr_time.hour >= 0 and curr_time.hour <=5):
-        task4(data[1], data[0], schoolTaskWid, data1[0], data1[1])
+      #if(curr_time.hour >= 0 and curr_time.hour <=5):
+      task4(data[1], data[0], schoolTaskWid, data1[0], data1[1])
     else:
       print(data)
 
